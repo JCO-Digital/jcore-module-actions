@@ -17,3 +17,4 @@ jobs:
       - uses: php-actions/composer@v6
         with:
           command: validate
+          version: 2.8.1
